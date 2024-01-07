@@ -1,0 +1,5 @@
+server:
+  port: 9898
+
+logging:
+  file.name: D:\ELK\logs\elk-stack.log
