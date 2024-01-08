@@ -11,6 +11,7 @@
 	<groupId>com.ibrahima</groupId>
 	<artifactId>mySringproject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>mySringproject</name>
 	<description>First project for Spring Boot</description>
 	<properties>
